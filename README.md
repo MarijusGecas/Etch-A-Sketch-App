@@ -1,5 +1,4 @@
-Etch a Sketch app
-
+Etch a Sketch game
 Keybinds: (just like any other game)
 - Move forwards: W
 - Move backwards: S
